@@ -1,0 +1,16 @@
+# Office temp files
+~$*
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp / cache
+*.pbix.bak
+.pbi/
+*.pbids.bak
+
+# Never commit personal contact data
+*contacts*
+*phone*
